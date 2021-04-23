@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ALFABETOModelStoreContainer" CdmEntityContainer="ALFABETOEntities">
+    <EntitySetMapping Name="TaAlfabeto">
+      <EntityTypeMapping TypeName="ALFABETOModel.TaAlfabeto">
+        <MappingFragment StoreEntitySet="TaAlfabeto">
+          <ScalarProperty Name="fcValue" ColumnName="fcValue" />
+          <ScalarProperty Name="fiIdKey" ColumnName="fiIdKey" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,15 @@
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.exe.config
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.exe
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\alfabetocliente.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\DemoData.dll.config
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.xml
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csprojAssemblyReference.cache
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csproj.CoreCompileInputs.cache
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.csproj.CopyComplete
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.exe
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\obj\Debug\alfabetocliente.pdb
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luisito\Desktop\DemoWepApi01\alfabetocliente\bin\Debug\EntityFramework.SqlServer.xml
